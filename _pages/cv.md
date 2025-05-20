@@ -20,16 +20,29 @@ Work experience
   
 Skills
 ======
-• Language: Mandarin(Native) , English(IELTS:6.5)
-• Expertise in automation control, solar concentration, electronic technique, optical calculation, robotics, deep learning.
-• Proficient in control system, intelligent search algorithms, machine learning, software development, simulation modeling,
-and digital image processing using Python, MATLAB, C/C++, C#.
-• Experienced in Machine Learning(CNN, RNN, GAN, Transformer) and LLM using TensorFlow, PyTorch.
-• Experienced in electronic circuit design and simulation, PCB layout, and PLC programming using Altium Designer,
-Multisim, Proteus, Keil uVision5, STEP 7 .
-• Experienced in robot software and algorithm development using SolidWorks, AutoCAD, ROS, Simulink, IAR, VSCode,
-Qt, LabVIEW, Git.
-• Experienced in electromagnetic field simulation using COMSOL Multiphysics, FDTD Solutions.
+- Language
+  - Mandarin (Native)
+  - English (IELTS: 6.5)
+
+- Automation & Robotics
+  - Expert in automation control, robotics, and intelligent algorithms.
+  - Proficient in robot software development using SolidWorks, AutoCAD, ROS, Simulink, IAR, VSCode, Qt, LabVIEW, and Git.
+  - Skilled in PLC programming with STEP 7 and electronic circuit design using Altium Designer, Multisim, and Proteus.
+
+- Energy & Electronics
+  - Specialized in solar concentration and optical calculation.
+  - Experienced in electronic circuit design, PCB layout, and simulation.
+
+- AI & Machine Learning
+  - Knowledgeable in machine learning (CNN, RNN, GAN, Transformer) and LLM.
+  - Hands-on experience with TensorFlow and PyTorch.
+
+- Software Development
+  - Proficient in Python, MATLAB, C/C++, and C# for control systems, simulation modeling, and digital image processing.
+
+- Simulation & Modeling
+  - Experienced in electromagnetic field simulation using COMSOL Multiphysics and FDTD Solutions.
+  - Skilled in control system simulation and modeling.
 
 Publications
 ======
